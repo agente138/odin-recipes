@@ -1,0 +1,29 @@
+body{
+    background-color: black;
+    color: white;
+    font-size: 24px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h1 {
+    font-size: 48px;
+}
+
+img {
+    width: 100%;
+    height: auto;
+}
+
+h2 {
+    font-size: 36px;
+}
+ 
+h1,
+h2 {
+    text-align: center;
+}
+
+p,
+li {
+    font-size: 24px;
+}
