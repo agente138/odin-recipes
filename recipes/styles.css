@@ -3,6 +3,7 @@ body{
     color: white;
     font-size: 24px;
     font-family: 'Times New Roman', Times, serif;
+    padding: 0 100px;
 }
 
 h1 {
@@ -10,8 +11,11 @@ h1 {
 }
 
 img {
-    width: 100%;
-    height: auto;
+    display: block;
+    box-sizing: border-box;
+    width: 800px;
+    height: 400px;
+    margin: 0 auto;
 }
 
 h2 {
