@@ -7,4 +7,19 @@ body{
 
 h1 {  
     font-size: 48px;
+    text-align: center;
+}
+
+ul {
+    width: 800px;
+    margin: 0 auto;
+}
+
+ul li {
+    display: inline-block;
+    margin: 10px;
+}
+
+li a {
+    color: white;
 }
